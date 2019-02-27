@@ -6,13 +6,13 @@ In big data world, to benefit from parallel processes,  data are stored as "Spli
 This project is to provide a generic data proxy to support the data transport between legacy systems and big data eco system.
 
 ### GDR and Eco System
-![GDR and Eco System](https://github.com/yunjzhang/GDR/gdr_and_eco_system.png)
+![GDR and Eco System](https://github.com/yunjzhang/GDR/blob/master/gdr_and_eco_system.png)
 
 GDR support open source big data Eco system on multiple layers, it's a fundamental interface for all MPP process to read/write binary data from/to distribute file system.
 and it also provide friendly tool to let user easily manipulate data among tradition file/DB systems and open source MPP systems.
 
 ### GDR infra
-![GDR infra](https://github.com/yunjzhang/GDR/gdr_infra.png)
+![GDR infra](https://github.com/yunjzhang/GDR/blob/master/gdr_infra.png)
 
 ### GDR feature matrix
 feature group | feature\data type | String | Integer/long | float/double | decimal | date | timestamp | bytes
