@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gdr.iml" filepath="$PROJECT_DIR$/gdr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/gdr-common.iml" filepath="$PROJECT_DIR$/common/gdr-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ext/gdr-ext.iml" filepath="$PROJECT_DIR$/ext/gdr-ext.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hive/gdr-hive.iml" filepath="$PROJECT_DIR$/hive/gdr-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spark/gdr-spark.iml" filepath="$PROJECT_DIR$/spark/gdr-spark.iml" />
+    </modules>
+  </component>
+</project>
